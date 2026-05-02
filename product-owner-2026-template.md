@@ -29,33 +29,6 @@ You are the only role bridging:
 
 ---
 
-## 3. Real-World Case Study: AI Content Review App
-### Context
-Publishing platform replacing 48-hour manual review with AI tool to cut time to 2 hours, reduce false positives by 40%.
-
-### 5+ Target User Panel
-1. Freelance Lifestyle Writer (15% rejection rate, loses $400/month to delays)
-2. Staff Content Editor (50+ reviews/week, 12 hours manual work/week)
-3. Non-Native English Tech Blogger (30% false "tone mismatch" flags)
-4. Enterprise SaaS Content Manager (needs audit trails for compliance)
-5. Niche Food Blogger (flagged for "readability" due to niche jargon)
-6. Newbie Content Creator (40% churn after first vague rejection)
-
-### Pre-Dev Fixes (Saved Rework)
-- Added plain-English fix suggestions with linked policy clauses
-- Built 2-click AI override logs with exportable audit trails
-- Added non-native English tone toggle
-- Customizable niche jargon exemptions per category
-- Optimized AI latency from 15s to 2.8s (25% lower compute costs)
-- Dynamic plagiarism thresholds (8% short-form, 15% long-form)
-
-### Post-Launch Results
-- Delivery speed: 14 weeks (20% faster than 18-week estimate)
-- NPS lift: +24 points
-- Stakeholder alignment: 94%
-- Backlog waste reduction: 32%
-- 0 compliance violations; 9% false positive rate
-
 ---
 
 ## 4. PO Todo Template (2026-Aligned)
