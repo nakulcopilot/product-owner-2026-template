@@ -41,7 +41,7 @@ Publishing platform replacing 48-hour manual review with AI tool to cut time to 
 5. Niche Food Blogger (flagged for "readability" due to niche jargon)
 6. Newbie Content Creator (40% churn after first vague rejection)
 
-### Pre-Dev Fixes (Saved $140k in Rework)
+### Pre-Dev Fixes (Saved Rework)
 - Added plain-English fix suggestions with linked policy clauses
 - Built 2-click AI override logs with exportable audit trails
 - Added non-native English tone toggle
